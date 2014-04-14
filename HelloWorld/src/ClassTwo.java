@@ -1,6 +1,6 @@
 /**
  * 
- * @author kmikhaylov
+ * @author test
  *
  */
 public class ClassTwo {
