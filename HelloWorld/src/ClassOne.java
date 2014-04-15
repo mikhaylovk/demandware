@@ -1,7 +1,7 @@
 
 public class ClassOne {
 /*
- * My t 123 d  est
+ * My t 123 dtttt  est
  */
 	int myName;
 	
