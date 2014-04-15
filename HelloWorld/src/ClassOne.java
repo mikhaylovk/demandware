@@ -1,7 +1,7 @@
 
 public class ClassOne {
 /*
- * My t 123 dtttt  est master hot fix.
+ * My t 123  fdg sdfg f sdfg  dtttt  est
  */
 	int myName;
 	
