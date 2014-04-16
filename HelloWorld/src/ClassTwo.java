@@ -1,6 +1,7 @@
 /**
  * 
  * @author t est
+ * Feature 3
  *
  */
 public class ClassTwo {
