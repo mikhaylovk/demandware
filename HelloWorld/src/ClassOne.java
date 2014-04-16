@@ -6,4 +6,5 @@ public class ClassOne {
  */
 	int myName;
 	int myAge;
+	int myFamily;
 }
